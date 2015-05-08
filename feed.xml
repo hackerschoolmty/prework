@@ -4,10 +4,10 @@
     <title>Prework</title>
     <description>HSMTY es una escuela que busca profesionalizar a desarrolladores de software, donde tendrás 13 semanas de entrenamiento hacker.
 </description>
-    <link>http://hackerschool.mx//</link>
-    <atom:link href="http://hackerschool.mx//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 07 May 2015 20:24:47 -0500</pubDate>
-    <lastBuildDate>Thu, 07 May 2015 20:24:47 -0500</lastBuildDate>
+    <link>http://hackerschool.mx//prework/</link>
+    <atom:link href="http://hackerschool.mx//prework/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 07 May 2015 20:35:52 -0500</pubDate>
+    <lastBuildDate>Thu, 07 May 2015 20:35:52 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -28,8 +28,8 @@
 
 </description>
         <pubDate>Thu, 07 May 2015 09:11:01 -0500</pubDate>
-        <link>http://hackerschool.mx//jekyll/update/2015/05/07/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://hackerschool.mx//jekyll/update/2015/05/07/welcome-to-jekyll.html</guid>
+        <link>http://hackerschool.mx//prework/jekyll/update/2015/05/07/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://hackerschool.mx//prework/jekyll/update/2015/05/07/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
